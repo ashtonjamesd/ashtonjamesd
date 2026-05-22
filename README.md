@@ -4,10 +4,9 @@ I am a system programming and low-level enthusiast experienced with a variety of
 
 **Working on:**
 - [Lavandula](https://github.com/ashtonjamesd/lavandula) - A C-based web framework
-- [Zython](https://github.com/ashtonjamesd/zython) - A Python VM and interpreter written in Zig
-- [Toon-Zig](https://github.com/ashtonjamesd/toon-zig) - The Zig implementation of TOON format
+- [Str](https://github.com/ashtonjamesd/str) - A string implementation in C.
 
-I enjoy working with compilers, programming language design, system software, and making things performant while retaining simplicity.
+I enjoy working with compilers, programming language design, system software.
 
 <br/>
 
